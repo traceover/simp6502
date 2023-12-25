@@ -1,6 +1,6 @@
 [package]
 name = "simp6502"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Alexander Overstreet"]
 edition = "2021"
 description = "Opcode definition and interpreter for 6502 assembly"
